@@ -1,4 +1,3 @@
-### Ol🏼
 Cursando Análise e Desenvolvimento de Sistemas 👨🏻‍💻
 Estudando:
 Python|JavaScript|React 
