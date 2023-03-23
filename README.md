@@ -1,14 +1,14 @@
 Cursando Análise e Desenvolvimento de Sistemas 👨🏻‍💻
 Estudando:
 Python|JavaScript|React 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaoliveira22&color=blue" alt="Profile views" /></p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=luscaborguezam&color=blue" alt="Profile views" /></p> -->
 
 
  
  <div>
-  <a href="https://github.com/rafaoliveira22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaoliveira22&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaoliveira22&layout=compact&langs_count=7&theme=cobalt2"/>
+  <a href="https://github.com/luscaborguezam">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luscaborguezam&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luscaborguezam&layout=compact&langs_count=7&theme=cobalt2"/>
 </div>
   
 ## 🚀 Technologies
