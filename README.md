@@ -1,6 +1,7 @@
 Desenvolvedor de Softwarew 👨🏻‍💻
+<br/>
 Estudando:
-Java|REST|React 
+Java |SPRING BOOT |REST |React 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=luscaborguezam&color=blue" alt="Profile views" /></p> -->
 
 
