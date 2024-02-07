@@ -1,6 +1,6 @@
-Cursando Análise e Desenvolvimento de Sistemas 👨🏻‍💻
+Desenvolvedor de Softwarew 👨🏻‍💻
 Estudando:
-Python|JavaScript|React 
+Java|REST|React 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=luscaborguezam&color=blue" alt="Profile views" /></p> -->
 
 
